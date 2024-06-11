@@ -1,5 +1,5 @@
 /** @type {import('tailwindcss').Config} */
-import theme from 'tailwindcss/defaultTheme';
+import theme from 'tailwindcss/defaultTheme'
 
 export default {
   content: ['index.html', 'src/**/*.{js,ts,jsx,tsx}'],
@@ -11,4 +11,4 @@ export default {
     },
   },
   plugins: [],
-};
+}
